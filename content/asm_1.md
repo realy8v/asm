@@ -65,7 +65,7 @@ For ALPM (Arch Linux package management):
 sudo pacman -S gcc nasm binutils
 ```
 
-In Gentoo based distributions, the sys-devel category packages are preinstalled (which includes gcc and binutils), so you only have to install nasm:
+In Gentoo-based distributions, the sys-devel category packages are preinstalled (including gcc and binutils), so you only have to install nasm:
 
 ```bash
 sudo emerge -av dev-lang/nasm
