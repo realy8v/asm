@@ -71,7 +71,7 @@ In Gentoo-based distributions, the sys-devel category packages are preinstalled 
 sudo emerge -av dev-lang/nasm
 ```
 
-For other Linux distributions, look in their repositories to find the packages(gcc, nasm, and binutils).
+For other Linux distributions, check their repositories to find the packages (gcc, nasm, and binutils).
 
 Once you’ve installed and configured these tools, there’s one last thing you’ll need: a text editor to write your assembly code. The choice of editor is entirely up to you. Personally, I use [GNU Emacs](https://www.gnu.org/software/emacs/) with [nasm-mode](https://github.com/skeeto/nasm-mode) for assembly development. However, this is not mandatory — feel free to use any editor you’re comfortable with. 
 
